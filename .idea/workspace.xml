@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b41554c3-1db4-43bc-b8cf-cf6ec56154ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab07.py" afterDir="false" />
+    <list default="true" id="b41554c3-1db4-43bc-b8cf-cf6ec56154ec" name="Changes" comment="Committed files of Selenium Programs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1734432713571</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committed files of Selenium Programs">
+      <option name="closed" value="true" />
+      <created>1736328042359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736328042359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committed files of Selenium Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed files of Selenium Programs" />
   </component>
 </project>
