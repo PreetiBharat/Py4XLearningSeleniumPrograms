@@ -1,11 +1,10 @@
 import time
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 
-def test_make_appointment():
+def test_make_appointment_project1():
     driver = webdriver.Chrome()
     driver.get("https://katalon-demo-cura.herokuapp.com/")
 
