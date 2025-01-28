@@ -11,10 +11,8 @@ def test_5():
     driver = webdriver.Chrome()
     driver.get("https://awesomeqa.com/ui/index.php?route=account/register")
 
-    first_name_input_tag = driver.find_element(By.CSS_SELECTOR,"")
+    first_name_input_tag = driver.find_element(By.CSS_SELECTOR, "")
     first_name_input_tag.send_keys("Hello")
-
-
 
     time.sleep(5)
     driver.quit()

@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41554c3-1db4-43bc-b8cf-cf6ec56154ec" name="Changes" comment="Committed files of Selenium Programs">
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab014_Explicit_Fluent_Wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab014_Explicit_Wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_Alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_SVG_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_SVG_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_exception_StaleExp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_exception_TimeOutExp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024/test_Lab_Selenium_exceptions_handle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector/test_Lab012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +75,17 @@
     "Python tests.Python tests for test_Lab08.test_Negative_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Lab08.test_using_locators_login_page.executor": "Run",
     "Python tests.Python tests for test_Lab09.test_vwo_Free_trial_Project3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_part1.test_svg_alerts.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_part2.test_svg_part2.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_part2.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Select.test_alerts.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_exceptions_handle.test_exception_handle.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab02.py.executor": "Run",
     "Python tests.Python tests in test_Lab03.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/bhara/PycharmProjects/Python4XLearningSeleniumPrograms/src/ex_4_22102024_CSS_Selector"
+    "last_opened_file_path": "C:/Users/bhara/PycharmProjects/Python4XLearningSeleniumPrograms/src/ex_5_24102024"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": []
@@ -84,95 +93,96 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhara\PycharmProjects\Python4XLearningSeleniumPrograms\src\ex_5_24102024" />
       <recent name="C:\Users\bhara\PycharmProjects\Python4XLearningSeleniumPrograms\src\ex_4_22102024_CSS_Selector" />
       <recent name="C:\Users\bhara\PycharmProjects\Python4XLearningSeleniumPrograms\src\ex_3_19102024_Locators" />
       <recent name="C:\Users\bhara\PycharmProjects\Python4XLearningSeleniumPrograms\src\ex_2_17102024_Selenium" />
       <recent name="C:\Users\bhara\PycharmProjects\Python4XLearningSeleniumPrograms\src\ex_1_15102024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab014_Explicit_Fluent_Wait.test_5">
-    <configuration name="Python tests for Task_19102024.test_Task_AwesomeQA_registration_form" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_exceptions_handle.test_exception_handle">
+    <configuration name="Python tests for test_Lab_Selenium_SVG_part1.test_svg_alerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Task_19102024.test_Task_AwesomeQA_registration_form&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_part1.test_svg_alerts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab010.test_Project4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_SVG_part2.test_svg_part2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab010.test_Project4&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_part2.test_svg_part2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab013.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_SVG_part2.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab013.test_5&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_part2.test_verify_svg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab014_Explicit_Fluent_Wait.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Select.test_alerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab014_Explicit_Fluent_Wait.test_5&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Select.test_alerts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab014_Explicit_Fluent_Wait.test_Explicit_Wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_exceptions_handle.test_exception_handle" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_22102024_CSS_Selector" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab014_Explicit_Fluent_Wait.test_Explicit_Wait&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_exceptions_handle.test_exception_handle&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab014_Explicit_Fluent_Wait.test_5" />
-        <item itemvalue="Python tests.Python tests for test_Lab013.test_5" />
-        <item itemvalue="Python tests.Python tests for test_Lab014_Explicit_Fluent_Wait.test_Explicit_Wait" />
-        <item itemvalue="Python tests.Python tests for Task_19102024.test_Task_AwesomeQA_registration_form" />
-        <item itemvalue="Python tests.Python tests for test_Lab010.test_Project4" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_exceptions_handle.test_exception_handle" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_part2.test_verify_svg" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_part2.test_svg_part2" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_part1.test_svg_alerts" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Select.test_alerts" />
       </list>
     </recent_temporary>
   </component>
